@@ -10,12 +10,3 @@ Ejercicio Bootcamp de gestión de contactos. Permite crear, borrar contactos y a
   
 ## Instalación
 Este proyecto no necesita de instalación. Simplemente abre la carpeta o haz doble click en el .html
-
-## Licencia 📄
-
-MIT Public License v3.0
-No puede usarse comercialmente.
-
-
-
-
